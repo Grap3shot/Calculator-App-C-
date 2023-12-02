@@ -1,0 +1,7 @@
+C:\Users\tunca\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\tunca\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Form1.Form1.resources
+C:\Users\tunca\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\tunca\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\tunca\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\tunca\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\tunca\OneDrive\Masaüstü\Calculator\Calculator\obj\Debug\Calculator.pdb

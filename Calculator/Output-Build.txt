@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Calculator, Configuration: Release Any CPU ------
+1>  Calculator -> C:\Users\tunca\OneDrive\Masaüstü\Calculator\Calculator\bin\Release\Calculator.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 13:59 and took 00,257 seconds ==========
